@@ -2,4 +2,4 @@
 Houston Hudgins' public repository
 
 What you can find here:
-    - [My personal resume](future link here)
+    - [My personal resume](https://houstonhudgins.github.io/resume/)
